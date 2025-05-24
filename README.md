@@ -80,25 +80,14 @@ A smart AI-powered inbox interface that allows you to chat with any user — whe
 - **State Management**: Zustand
 - **Styling**: Tailwind CSS / Shadcn UI
 - **AI Integration**: OpenAI API (or similar)
-- **Backend**: Firebase (for storing chat data)
-
----
-
-## 🧪 Coming Soon
-
-- 🎙 Voice Chat Integration  
-- 🧵 Threaded replies within conversations  
-- 🧑‍🎨 AI persona customization  
-- 📎 File uploads & smart context reading  
-- 🗓 Smart scheduling, reminders & follow-ups  
 
 ---
 
 ## 🧑‍💻 Getting Started
 
 ```bash
-git clone https://github.com/your-username/ai-chat-inbox.git
-cd ai-chat-inbox
+git clone https://github.com/Animeshhit/ai-chat-agent
+cd ai-chat-agent
 npm install
 npm run dev
 
