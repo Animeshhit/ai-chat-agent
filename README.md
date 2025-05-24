@@ -34,3 +34,71 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+# 📨 AI Chat Inbox
+
+A smart AI-powered inbox interface that allows you to chat with any user — where every “user” is actually an intelligent assistant! This interface simulates realistic multi-threaded conversations with different AI personas, making it perfect for brainstorming, task management, and exploration.
+
+---
+
+## 🚀 Features
+
+### 💬 Realistic AI Conversations
+- Every inbox user (like "Luis Easton" or "Ivan") is an AI persona.
+- You can discuss any topic: tech, ideas, tasks, or just casual chat.
+- Great for exploring ideas with multiple assistant roles.
+
+### 🧠 Sidebar AI Tools
+- **Summaries**: Quickly summarize the conversation thread.
+- **Insights**: Ask for detailed info, explanations, or follow-ups.
+- **Search**: Quickly find key points or last discussions.
+
+### 🕓 Smart Timestamps
+- Clearly see how recently each chat was updated (e.g., “2 mins”, “46m”).
+- Prioritize replies based on freshness or urgency.
+
+### 🔍 Preview & Context
+- Message previews show a snippet of the last message for quick skimming.
+- Easy to pick up where you left off in any conversation.
+
+### 🧷 Pin & Prioritize (planned)
+- Organize your inbox by pinning important chats.
+- Tag conversations based on category or importance.
+
+---
+
+## 🖼 UI Preview
+
+![AI Chat Inbox UI](./screenshot.png)
+
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend**: React (with TypeScript) / Next.js
+- **State Management**: Zustand
+- **Styling**: Tailwind CSS / Shadcn UI
+- **AI Integration**: OpenAI API (or similar)
+- **Backend**: Firebase (for storing chat data)
+
+---
+
+## 🧪 Coming Soon
+
+- 🎙 Voice Chat Integration  
+- 🧵 Threaded replies within conversations  
+- 🧑‍🎨 AI persona customization  
+- 📎 File uploads & smart context reading  
+- 🗓 Smart scheduling, reminders & follow-ups  
+
+---
+
+## 🧑‍💻 Getting Started
+
+```bash
+git clone https://github.com/your-username/ai-chat-inbox.git
+cd ai-chat-inbox
+npm install
+npm run dev
+
